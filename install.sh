@@ -46,28 +46,6 @@ function stop_moonraker {
     fi
 }
 
-function link_extension {
-    if [ -d "${KLIPPER_TARGET_DIR}/" ]; then
-            if [ -f "${KLIPPER_TARGET_DIR}/.theme" ]; then
-                # Force remove .theme folder
-                echo "Found > .theme > removing .theme"
-                sudo rm -f "$THEME_FILES"
-                echo "Removed > .theme"
-            fi
-
-        echo "Create > .theme"
-        mkdir -p -- "${KLIPPER_TARGET_DIR}/.theme"
-        echo ".theme > created"
-
-        #ln -sf "${SRCDIR}/component/timelapse.py" "${MOONRAKER_TARGET_DIR}/timelapse.py"
-    else
-        echo -e "ERROR: ${KLIPPER_TARGET_DIR} not found."
-        echo -e "Please Install moonraker first!\nExiting..."
-        exit 1
-    fi
-}
-
-
 function install_script {
 # Create systemd service file
     THEME_FILES="${KLIPPER_TARGET_DIR}/.theme"
@@ -78,8 +56,9 @@ function install_script {
     fi
 
     echo "Installing theme..."
-    echo ${SRCDIR}
-    cp -r "${SRCDIR}/.theme" ${KLIPPER_TARGET_DIR} << EOF
+    cp -r "${SRCDIR}/.theme" ${KLIPPER_TARGET_DIR}
+    cp -r "${SRCDIR}/.git" "${KLIPPER_TARGET_DIR}/.theme" 
+    echo "theme installed, have fun!" << EOF
 EOF
 }
 
