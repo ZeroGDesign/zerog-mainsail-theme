@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+.consoleScrollContainer,
+.consoleTable {
+  font-family: monospace;
+  font-size: 13px;
+}
+
+.v-toolbar__title {
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+}
