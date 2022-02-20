@@ -19,10 +19,12 @@ function install_script {
     THEME_FILES="${KLIPPER_TARGET_DIR}/.theme"
 
     # Force remove
+    rm -rf "$THEME_FILES/*" || true
     rm -rf "$THEME_FILES" || true
 
     echo "Installing theme..."
     echo "Copying theme folder to correct directory"
+    sleep 4
     cp -r "${SRCDIR}/.theme" ${KLIPPER_TARGET_DIR}
     cp -r "${SRCDIR}/.git" "${KLIPPER_TARGET_DIR}/.theme" 
     echo "Theme has been installed, have fun!"
