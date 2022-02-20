@@ -20,12 +20,12 @@ function install_script {
 
     # Force remove
     rm -rf "$THEME_FILES" || true
-    rm -rf "$SRCDIR/.theme" || true
 
     echo "Installing theme..."
     echo "Copying theme folder to correct directory"
-    cp -r "${SRCDIR}/.theme" ${KLIPPER_TARGET_DIR}
-    cp -r "${SRCDIR}/.git" "${KLIPPER_TARGET_DIR}/.theme" 
+    cp -rs "${SRCDIR}/.theme" ${KLIPPER_TARGET_DIR}
+    cp -rs "${SRCDIR}/.git" "${KLIPPER_TARGET_DIR}/.theme" 
+
     echo "Theme has been installed, have fun!"
     echo "Don't forget to join our discord: https://discord.gg/zerog" << EOF
 EOF
