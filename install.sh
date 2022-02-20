@@ -1,5 +1,5 @@
 #!/bin/bash
-# Moonraker Timelapse component installer
+# ZeroG Theme installer
 #
 # Copyright (C) 2021 Christoph Frei <fryakatkop@gmail.com>
 # Copyright (C) 2021 Stephan Wendel aka KwadFan <me@stephanwe.de>
@@ -22,9 +22,11 @@ function install_script {
     rm -rf "$THEME_FILES" || true
 
     echo "Installing theme..."
+    echo "Copying theme folder to correct directory"
     cp -r "${SRCDIR}/.theme" ${KLIPPER_TARGET_DIR}
     cp -r "${SRCDIR}/.git" "${KLIPPER_TARGET_DIR}/.theme" 
-    echo "theme installed, have fun!"
+    echo "Theme has been installed, have fun!"
+    echo "Don't forget to join our discord: https://discord.gg/zerog"
     sudo systemctl restart moonraker << EOF
 EOF
 }
