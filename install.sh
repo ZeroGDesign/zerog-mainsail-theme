@@ -25,7 +25,7 @@ function install_script {
     echo "Linking Theme & Git folder to correct directory"
     ln -sf "${SRCDIR}/.theme" "${KLIPPER_TARGET_DIR}/.theme"
     ln -sf "${SRCDIR}/.git" "${SRCDIR}/.theme/.git"
-    echo "Theme has been installed, have fun!"
+    echo "Theme has been installed, have fun."
     echo "Don't forget to join our discord: https://discord.gg/zerog" << EOF
 EOF
 }
