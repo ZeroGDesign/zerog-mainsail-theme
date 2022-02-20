@@ -22,7 +22,7 @@ function install_script {
     rm -rf "$THEME_FILES" || true
 
     echo "Installing theme..."
-    echo "Copying theme folder to correct directory"
+    echo "Linking Theme & Git folder to correct directory"
     ln -sf "${SRCDIR}/.theme" "${KLIPPER_TARGET_DIR}/.theme"
     ln -sf "${SRCDIR}/.git" "${SRCDIR}/.theme/.git"
     echo "Theme has been installed, have fun!"
