@@ -26,8 +26,7 @@ function install_script {
     cp -r "${SRCDIR}/.theme" ${KLIPPER_TARGET_DIR}
     cp -r "${SRCDIR}/.git" "${KLIPPER_TARGET_DIR}/.theme" 
     echo "Theme has been installed, have fun!"
-    echo "Don't forget to join our discord: https://discord.gg/zerog"
-    sudo systemctl restart moonraker << EOF
+    echo "Don't forget to join our discord: https://discord.gg/zerog" << EOF
 EOF
 }
 
