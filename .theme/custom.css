@@ -10,3 +10,7 @@
   text-transform: uppercase;
   font-family: 'Oswald', sans-serif;
 }
+
+.theme--dark.v-icon {
+    color: #E34234;
+}
