@@ -1,10 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 258 269.8" style="enable-background:new 0 0 258 269.8;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#E34334;}
-</style>
-<polygon class="st0" points="258,0 220.09,0 212.46,0 165.38,0 40.37,0 0,0 0,38.4 0,132.44 40.37,103.64 40.37,38.4 165.38,38.4 
-	0,156.39 0,177.87 128.86,269.8 258,177.67 258,60.62 140.76,144.26 230.3,144.26 128.2,217.1 61.02,169.18 258,28.66 "/>
+<svg
+	xmlns="http://www.w3.org/2000/svg" viewBox="0 0 489.6 512">
+	<defs>
+		<style>.cls-1{fill:#cc0202;}.cls-2{fill:#a50000;}.cls-3{fill:#fb5269;}.cls-4{fill:#f25617;}.cls-5{fill:#ff8a8a;}.cls-6{fill:#ff2929;}.cls-7{fill:#ff1256;}.cls-8{fill:#fb7980;}.cls-9{fill:#f43740;}.cls-10{fill:#ed154e;}.cls-11{fill:#fd6388;}.cls-12{fill:#fae9a7;}.cls-13{fill:#ff4545;}.cls-14{fill:#fe797d;}.cls-15{fill:#fc4c4c;}.cls-16{fill:#ff1749;}.cls-17{fill:#feb2c5;}.cls-18{fill:#ff1e00;}.cls-19{fill:#fe6478;}.cls-20{fill:#ff5278;}.cls-21{fill:#ee0a25;}.cls-22{fill:#db416d;}.cls-23{fill:#f72d66;}.cls-24{fill:#f73568;}.cls-25{fill:#f88;}.cls-26{fill:#bc3c7d;}.cls-27{fill:#ff6b43;}.cls-28{fill:#f93232;}.cls-29{fill:#fd4268;}.cls-30{fill:#d83045;}.cls-31{fill:#fe7faa;}.cls-32{fill:#ff5a5a;}.cls-33{fill:#fa3d3c;}.cls-34{fill:#fa8d52;}.cls-35{fill:#ff5910;}.cls-36{fill:#f47e9c;}.cls-37{fill:#ff402c;}.cls-38{fill:#ffc47c;}.cls-39{fill:#f42d09;}.cls-40{fill:#ffe3a4;}.cls-41{fill:#fead5f;}.cls-42{fill:#b50000;}.cls-43{fill:#ff9945;}.cls-44{fill:#9f1c20;}</style>
+	</defs>
+	<g id="Fall">
+		<polygon class="cls-1" points="93.72 354.86 143.5 439.92 71.66 388.66 93.72 354.86"/>
+		<polygon class="cls-2" points="0 296.77 71.66 388.66 0 337.54 0 296.77"/>
+		<polygon class="cls-3" points="317.41 421.31 265.1 446.87 243.27 411.99 431.2 365.7 317.41 421.31"/>
+		<polygon class="cls-4" points="33.47 85.94 76.61 196.68 26.85 182.52 0 0 33.47 85.94"/>
+		<polygon class="cls-5" points="397.42 120.13 244.8 229.01 264.32 184.86 317.66 158.92 397.42 120.13"/>
+		<polygon class="cls-6" points="97.64 227.11 279.31 150.95 264.32 184.86 244.8 229.01 244.8 229.03 244.79 229.03 171.21 228.07 97.64 227.11"/>
+		<polygon class="cls-7" points="489.6 54.38 397.42 120.13 426.57 27.19 489.6 54.38"/>
+		<polygon class="cls-8" points="431.2 365.7 243.27 411.99 344.29 339.92 431.2 365.7"/>
+		<polygon class="cls-9" points="93.72 354.86 171.21 376.31 207.25 435.84 93.72 354.86"/>
+		<polygon class="cls-10" points="260.06 476.63 244.54 512 171.21 459.69 260.06 476.63"/>
+		<polygon class="cls-11" points="489.6 115.04 489.6 337.17 431.2 365.7 463.52 226.97 489.6 115.04"/>
+		<polygon class="cls-12" points="156.89 36.43 0 0 76.61 0 313.83 0 363.52 0 313.83 72.88 156.91 36.43 156.89 36.43"/>
+		<polygon class="cls-13" points="171.21 228.07 115.79 321.06 97.64 227.11 171.21 228.07"/>
+		<polygon class="cls-14" points="463.52 226.97 437.03 273.77 430.68 240.38 463.52 226.97"/>
+		<polygon class="cls-15" points="115.79 321.06 207.25 386.29 171.21 376.31 93.72 354.86 115.79 321.06"/>
+		<polygon class="cls-16" points="426.57 27.19 397.42 120.13 317.66 158.92 337.24 135.25 426.57 27.19"/>
+		<polygon class="cls-17" points="437.03 273.77 463.52 226.97 431.2 365.7 437.03 273.77"/>
+		<polygon class="cls-18" points="403.83 17.39 489.6 0 489.6 54.38 426.57 27.19 403.83 17.39"/>
+		<polygon class="cls-19" points="419.22 180.21 358.87 273.77 358.46 273.77 330.87 232.82 328.72 229.81 437.1 152.5 419.22 180.21"/>
+		<polygon class="cls-20" points="437.03 273.77 358.87 273.77 419.22 180.21 430.68 240.38 437.03 273.77"/>
+		<polygon class="cls-21" points="244.79 229.03 193.28 265.77 171.21 228.07 244.79 229.03"/>
+		<polygon class="cls-22" points="265.1 446.87 317.41 421.31 377.35 417.25 286.94 481.75 265.1 446.87"/>
+		<polygon class="cls-23" points="286.94 481.75 260.06 476.63 171.21 459.69 207.25 435.84 243.27 411.99 265.1 446.87 286.94 481.75"/>
+		<polygon class="cls-24" points="358.46 273.77 267.1 273.77 328.72 229.81 330.87 232.82 358.46 273.77"/>
+		<polygon class="cls-25" points="489.6 0 403.83 17.39 363.52 0 403.17 0 417.66 0 489.6 0"/>
+		<polygon class="cls-26" points="260.06 476.63 286.94 481.75 244.54 512 260.06 476.63"/>
+		<polygon class="cls-27" points="279.31 150.95 97.64 227.11 313.83 72.88 279.31 150.95"/>
+		<polygon class="cls-28" points="93.72 354.86 71.66 388.66 0 296.77 115.79 321.06 93.72 354.86"/>
+		<polygon class="cls-29" points="431.2 365.7 344.29 339.92 437.03 273.77 431.2 365.7"/>
+		<polygon class="cls-30" points="93.72 354.86 207.25 435.84 171.21 459.69 143.5 439.92 93.72 354.86"/>
+		<polygon class="cls-31" points="489.6 337.17 377.35 417.25 317.41 421.31 431.2 365.7 489.6 337.17"/>
+		<polygon class="cls-32" points="426.57 27.19 337.24 135.25 313.83 72.88 426.57 27.19"/>
+		<polygon class="cls-33" points="243.27 411.99 207.25 435.84 171.21 376.31 207.25 386.29 243.27 411.99"/>
+		<polygon class="cls-34" points="0 0 26.85 182.52 0 251.33 0 72.88 0 0"/>
+		<polygon class="cls-35" points="363.52 0 403.83 17.39 426.57 27.19 313.83 72.88 363.52 0"/>
+		<polygon class="cls-36" points="489.6 115.04 463.52 226.97 430.68 240.38 419.22 180.21 437.1 152.5 489.6 115.04"/>
+		<polygon class="cls-37" points="264.32 184.86 279.31 150.95 313.83 72.88 337.24 135.25 317.66 158.92 264.32 184.86"/>
+		<polygon class="cls-38" points="76.61 72.88 33.47 85.94 0 0 76.61 72.88"/>
+		<polygon class="cls-39" points="26.85 182.52 76.61 196.68 0 251.33 26.85 182.52"/>
+		<polygon class="cls-40" points="76.61 72.88 76.61 196.68 33.47 85.94 76.61 72.88"/>
+		<polygon class="cls-41" points="156.89 36.43 76.61 72.88 0 0 156.89 36.43"/>
+		<polygon class="cls-42" points="193.28 265.77 115.79 321.06 171.21 228.07 193.28 265.77"/>
+		<polygon class="cls-43" points="313.83 72.88 76.61 72.88 156.89 36.43 156.91 36.43 313.83 72.88"/>
+		<polygon class="cls-32" points="97.64 227.11 115.79 321.06 0 296.77 97.64 227.11"/>
+	</g>
+	<g id="Winter">
+		<path class="cls-44" d="M181.82,87l.67.69a3.07,3.07,0,0,1-2.75-.07C180.17,86.85,181.07,87.06,181.82,87Z" transform="translate(-11.2 0)"/>
+	</g>
 </svg>
