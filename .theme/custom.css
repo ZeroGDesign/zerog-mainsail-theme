@@ -17,5 +17,5 @@
 
 /* This selector targets .v-image__image.v-image__image--cover but excludes instances where it's a descendant of .v-main__wrap */
 .v-image.v-responsive.theme--dark:not(.v-main__wrap *) > .v-image__image.v-image__image--cover {
-    background-image: url("sidebar-background.png") !important;
+    background-image: url("sidebar-background_christmas.png") !important;
 }
